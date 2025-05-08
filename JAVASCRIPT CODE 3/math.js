@@ -1,0 +1,5 @@
+console.log(Math.sqrt(35))
+console.log(Math.pow(35, 35))
+console.log(Math.round(35.8))
+console.log(Math.exp(35))
+console.log(Math.PI)
